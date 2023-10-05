@@ -8,24 +8,20 @@ Welcome to my Data Analyst portfolio! This repository showcases my journey as a 
 - [Tools and Technologies](#tools-and-technologies)
 - [Contact Information](#contact-information)
 
-## Introduction
-I am passionate about using data to gain insights, solve problems, and communicate meaningful information. My data journey began during my undergraduate engineering course, where I used Excel for physics and chemistry labs. Over time, I expanded my skill set to include SQL, Python, R, and various data visualization tools to explore data from different angles.
-
 ### High School: A Glimpse into Marketing
-In my high school years, I became captivated by marketing and the art of persuading buyers. A book titled "Data-Driven Marketing: Smart Marketing Using Data" by Mr. Nui Nattapon Muangtum was my first encounter with the power of data in decision-making.
-
-One case study stood out: a grocery store sending discounts to expectant mothers. The data-driven prediction was spot on, showcasing the incredible potential of extracting insights from data.
+In my high school years, I became captivated by marketing and the art of persuading buyers. A book titled "Data-Driven Marketing: Smart Marketing Using Data" by Mr. Nui Nattapon Muangtum was my first encounter with the power of data in decision-making...
 
 ### Exploring Statistics
-My fascination with data led me to delve into statistics. A favorite book during this period was "How to Lie with Statistics" by Darrell Huff, an unconventional yet eye-opening exploration of statistics' deceptive potential.
+My fascination with data led me to delve into statistics. A favorite book during this period was "How to Lie with Statistics" by Darrell Huff, an unconventional yet eye-opening exploration of statistics' deceptive potential...
 
 ### Connecting the Dots: Statistics and Behavioral Economics
-I started connecting my knowledge of statistics to areas like behavioral economics, examining human behavior in relation to money and decision-making. Intriguing questions emerged, such as how casinos optimize lighting and sound to encourage spending.
-
-My quest to combine economics and data analysis led me to econometrics, a field closely related to data analysis and research.
+I started connecting my knowledge of statistics to areas like behavioral economics, examining human behavior in relation to money and decision-making. Intriguing questions emerged, such as how casinos optimize lighting and sound to encourage spending...
 
 ### High School Graduation: A Turning Point
 Joining the engineering club in my senior year, I encountered SPSS, a tool for statistical analysis. This experience solidified my passion for working with data and made me realize that data science encompasses more than just technology, business, and mathematics.
+
+### Data Science Bootcamp 8 
+I am thrilled to have been awarded a full scholarship from Datarockie to pursue their Data Science Bootcamp 8 program. My journey into the world of data analysis and science started during my undergraduate years at the Faculty of Engineering at Chulalongkorn University. It was here that I initially delved into the power of data, using tools like Excel to support my physics and chemistry lab work. As time passed, my curiosity and passion for data led me to broaden my skill set, encompassing SQL, Python, R, and various data visualization tools. These skills have enabled me to explore and dissect data from diverse perspectives, a journey that has ultimately led me to this incredible opportunity to further my education in data science.
 
 ## Projects
 ### 1. Personal Database with SQL
@@ -54,7 +50,7 @@ I created a rocket trajectory simulation project in Python. This project demonst
 - **Canva**: Website design and development.
 - **R**: Statistical analysis and research.
 - **Python**: Data modeling and simulation.
-
+- 
 ## Contact Information
 Feel free to reach out to me via email at 6632099221@student.chula.ac.th
 
