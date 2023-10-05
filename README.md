@@ -41,7 +41,7 @@ I created a rocket trajectory simulation project in Python. This project demonst
 - **Canva**: Website design and development.
 - **R**: Statistical analysis and research.
 - **Python**: Data modeling and simulation.
-- 
+  
 ## Contact Information
 Feel free to reach out to me via email at 6632099221@student.chula.ac.th
 
