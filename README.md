@@ -1,4 +1,4 @@
-# Data Analyst Portfoliossss
+# Data Analyst Portfolio
 
 Welcome to my Data Analyst portfolio! This repository showcases my journey as a data enthusiast and analyst. Here, you'll find a variety of projects and experiences that highlight my skills in data analysis, visualization, and problem-solving. Feel free to explore and learn more about my work.
 
