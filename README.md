@@ -56,6 +56,6 @@ I created a rocket trajectory simulation project in Python. This project demonst
 - **Python**: Data modeling and simulation.
 
 ## Contact Information
-Feel free to reach out to me via email at [6632099221@student.chula.ac.th).
+Feel free to reach out to me via email at 6632099221@student.chula.ac.th
 
 Thank you for visiting my Data Analyst portfolio! I look forward to sharing more data-driven insights and projects in the future.
