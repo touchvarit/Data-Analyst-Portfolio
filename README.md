@@ -4,10 +4,11 @@ Welcome to my Data Analyst portfolio! This repository showcases my journey as a 
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Projects](#projects)
+- [Why Data Analyst](#why-data-analyst)
 - [Tools and Technologies](#tools-and-technologies)
 - [Contact Information](#contact-information)
 
+## Why Data Analyst? 
 ### Exploring Statistics
 During my high school years, I developed a strong interest in marketing and the art of persuading buyers. It was during this time that I had my first exposure to the power of data-driven decision-making through the book "Data-Driven Marketing: Smart Marketing Using Data" by Mr. Nui Nattapon Muangtum. My fascination with data continued to grow, leading me to explore the field of statistics. One of my favorite books during this period was "How to Lie with Statistics" by Darrell Huff, which provided an unconventional yet eye-opening exploration of the deceptive potential of statistics. I also joined the engineering club, where I had the opportunity to work with SPSS, a tool for statistical analysis. This experience not only solidified my passion for working with data but also helped me realize that data science encompasses more than just technology, business, and mathematics.
 
@@ -42,7 +43,7 @@ I created a rocket trajectory simulation project in Python. This project demonst
 - **R**: Statistical analysis and research.
 - **Python**: Data modeling and simulation.
   
-## Contact Informatiom
+## Contact Information
 Feel free to reach out to me via email at 6632099221@student.chula.ac.th
 
 Thank you for visiting my Data Analyst portfolio! I look forward to sharing more data-driven insights and projects in the future.
