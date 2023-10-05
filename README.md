@@ -1,4 +1,4 @@
-# Data Analyst Portfolio
+# Data Analyst Portfoliossss
 
 Welcome to my Data Analyst portfolio! This repository showcases my journey as a data enthusiast and analyst. Here, you'll find a variety of projects and experiences that highlight my skills in data analysis, visualization, and problem-solving. Feel free to explore and learn more about my work.
 
@@ -42,7 +42,7 @@ I created a rocket trajectory simulation project in Python. This project demonst
 - **R**: Statistical analysis and research.
 - **Python**: Data modeling and simulation.
   
-## Contact Information
+## Contact Informatiom
 Feel free to reach out to me via email at 6632099221@student.chula.ac.th
 
 Thank you for visiting my Data Analyst portfolio! I look forward to sharing more data-driven insights and projects in the future.
